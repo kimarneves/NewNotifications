@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>myContentExt.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -18,6 +23,11 @@
 			<true/>
 		</dict>
 		<key>2A30A7181DFCD4B300B0D7AE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A30A72D1DFCDE5B00B0D7AE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
